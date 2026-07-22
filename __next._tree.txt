@@ -1,0 +1,2 @@
+:HL["/pink-magic-cafe-archive/_next/static/chunks/0ei88woyuq~fd.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"GEtJZXc-mkUzv9Cg2gMd4"}
